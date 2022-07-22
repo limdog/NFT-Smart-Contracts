@@ -2,6 +2,8 @@
 
 Contracts for 3 different kinds of NFTs.
 
+Built using Patrick Collins' Blockchain, Solidity, and Full Stack Web3 Development with JavaScript Course.
+
 1. A Basic NFT
 2. IPFS Hosted NFT 
    1. That uses Chainlink VRF to generate a unique NFT
